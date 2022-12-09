@@ -19,7 +19,7 @@ export class CriarPensamentoComponent{
     }
 
     cancelar () {
-      alert("Novo pensamento criado!")
+     
     }
 
 }
